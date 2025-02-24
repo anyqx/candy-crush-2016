@@ -1,1 +1,1 @@
-# candyCrush2016
+# Candy Crush
